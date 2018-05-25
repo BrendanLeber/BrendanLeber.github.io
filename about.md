@@ -6,10 +6,11 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### TheProgPilgrim
 
-A place to include any other types of information that you'd like to include about yourself.
+Also known as "The Prog Pilgrim" in music circles.  If you see me in my fez come say hello!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[brendan@brendanleber.com](mailto:brendan@brendanleber.com)
+
