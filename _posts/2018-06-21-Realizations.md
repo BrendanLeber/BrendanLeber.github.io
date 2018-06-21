@@ -2,6 +2,7 @@
 layout: post
 title: Realizations
 tags: thoughts
+comments: true
 ---
 
 Yesterday I came to a realization that explains my career dissatisfaction and gives me a goal I can use as a target to get back on track.  To get explain the realization and the goal you’ll have to come with me on a journey through my past.  For your safety while on attractions, please keep your hands, arms, and legs inside the vehicle at all times.  Now sit back and enjoy the ride.
